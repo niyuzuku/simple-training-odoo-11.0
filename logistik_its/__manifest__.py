@@ -1,6 +1,6 @@
 {
     "name": "Tambahan Lot/Serial Number",
-    "author": "Logistik ITS ",
+    "author": "Niyuzuku",
     "summary": "Penambahan harga tanggal lot number ",
     "depends": [
         "stock",
