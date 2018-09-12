@@ -1,7 +1,7 @@
 {
     "name": "Training Add Field to a Table",
     "author": "Niyuzuku",
-    "summary": "Penambahan harga tanggal lot number ",
+    "summary": "An example to add field in serial number table",
     "depends": [
         "stock",
     ],
